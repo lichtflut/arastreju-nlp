@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flection_classes>
+	
+	<!-- DE -->
+	
+	<noun genus="f" language="DE" name="-/en" pattern="-,-,-,-/(e)n,(e)n,(e)n,(e)n;"/>
+	<noun genus="f" language="DE" name="-/e" pattern="-,-,-,-/e,e,en,e;"/>
+	
+	<noun genus="m" language="DE" name="(e)s/er" pattern="-,(e)s,(e),-/er,er,ern,er;"/>
+	<noun genus="m" language="DE" name="(e)s/-" pattern="-,(e)s,(e),-/-,-,-,-;"/>
+	<noun genus="m" language="DE" name="(e)s/e" pattern="-,(e)s,(e),-/e,e,en,e;"/>
+	<noun genus="m" language="DE" name="(e)n/(e)n" pattern="-,(e)n,-,-/(e)n,(e)n,(e)n,(e)n;"/>
+	<noun genus="m" language="DE" name="(e)ns/(e)n" pattern="-,(e)ns,(e)n,(e)n/(e)n,(e)n,(e)n,(e)n;"/>
+	<noun genus="m" language="DE" name="(e)s/en" pattern="-,(e)s,-,-/(e)n,(e)n,(e)n,(e)n;"/>
+	<noun genus="m" language="DE" name="(s)/-" pattern="-,(s),-,-/-,-,-,-;"/>
+		
+	<noun genus="n" language="DE" name="(e)s/er" pattern="-,(e)s,-,-/er,er,ern,er;"/>
+	<noun genus="n" language="DE" name="(e)s/(e)s" pattern="-,(e)s,-,-/(e)s,(e)s,(e)s,(e)s;"/>
+	<noun genus="n" language="DE" name="(e)s/e" pattern="-,(e)s,-,-/(e),(e),(e)n,(e)"/>
+	<!-- Gitter, Fenster -->
+	<noun genus="n" language="DE" name="(e)s/(e)n" pattern="-,(e)s,-,-/-,-,n,-"/>
+	<noun genus="n" language="DE" name="-/-" pattern="-,-,-,-/-,-,-,-"/>			
+	
+	<!-- Berlin, Mailand, Frankreich -->
+	<noun genus="u" language="DE" name="(s)/(s)" flavor="location_name" pattern="-,(s),-,-/(s),(s),(s),(s)"/>		
+	
+	<adjective genus="f" language="DE" name="(e)n/(e)n" pattern="(e),(e)n,(e)n,(e)/(e)n,(e)n,(e)n,(e)n"/>
+	<adjective genus="m" language="DE" name="(e)n/(e)n" pattern="(e),(e)n,(e)n,(e)n/(e)n,(e)n,(e)n,(e)n"/>
+	<adjective genus="m" language="DE" name="(e)r/(e)r" pattern="(e)r,(e)n,(e)n,(e)n/(e),(e)r,(e)n,(e)"/>
+	<adjective genus="n" language="DE" name="(e)n/(e)n" pattern="(e),(e)n,(e)n,(e)n/(e)n,(e)n,(e)n,(e)n"/>	
+	<adjective genus="n" language="DE" name="(e)s/(e)r" pattern="(e)s,(e)n,(e)n,(e)s/(e),(e)r,(e)n,(e)"/>
+	
+	<!-- EN -->
+	
+	<noun genus="u" language="EN" name="s/s" pattern="-,'s,-/s,'s,s"/>
+	<noun genus="u" language="EN" name="-/-" pattern="-,-,-/-,-,-"/>
+	
+	<!-- ANY -->
+	
+	<!-- Angela, Oliver, Thomas -->
+	<noun genus="u" language="ANY" name="s/(s)" flavor="vorname" pattern="-,s,-,-/(s),(s),(s),(s)"/>		
+	<!-- Angela, Oliver -->
+	<noun genus="u" language="ANY" name="s/s" flavor="vorname" pattern="-,s,-,-/s,s,s,s"/>
+	<!-- Alex, Franz, Thomas -->
+	<noun genus="u" language="ANY" name="-/(e)" flavor="vorname" pattern="-,-,-,-/(e),(e),(e),(e)"/>		
+			
+	
+</flection_classes>

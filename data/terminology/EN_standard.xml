@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<terminology uri="http://tinybluepla.net/terminology/EN_standard#" type="STANDARD" name="EN_standard" revision="1">
+  <article nennform="a" language="EN" flavor="INDEFINITE" revision="1" />
+  <article nennform="that" language="EN" revision="1" />
+  <article nennform="the" language="EN" flavor="DEFINITE" revision="1" />
+  <article nennform="this" language="EN" revision="1" />
+  <noun nennform="car" language="EN" name_type="CONCEPT_NAME" revision="1" />
+  <noun nennform="man" language="EN" name_type="CONCEPT_NAME" revision="1" />
+  <noun nennform="town" language="EN" name_type="CONCEPT_NAME" revision="1" />
+  <noun nennform="vehicle" language="EN" name_type="CONCEPT_NAME" revision="1" />
+  <noun nennform="woman" language="EN" name_type="CONCEPT_NAME" revision="1" />
+  <numeral nennform="billion" language="EN" revision="1" />
+  <numeral nennform="eight" language="EN" revision="1" />
+  <numeral nennform="eleven" language="EN" revision="1" />
+  <numeral nennform="five" language="EN" revision="1" />
+  <numeral nennform="four" language="EN" revision="1" />
+  <numeral nennform="million" language="EN" revision="1" />
+  <numeral nennform="nine" language="EN" revision="1" />
+  <numeral nennform="one" language="EN" revision="1" />
+  <numeral nennform="seven" language="EN" revision="1" />
+  <numeral nennform="six" language="EN" revision="1" />
+  <numeral nennform="ten" language="EN" revision="1" />
+  <numeral nennform="thousand" language="EN" revision="1" />
+  <numeral nennform="three" language="EN" revision="1" />
+  <numeral nennform="twelve" language="EN" revision="1" />
+  <numeral nennform="two" language="EN" revision="1" />
+  <particle nennform="etcetera" language="EN" revision="1" />
+  <particle nennform="no" language="EN" revision="1" />
+  <particle nennform="yes" language="EN" revision="1" />
+  <preposition nennform="at" language="EN" revision="1" />
+  <preposition nennform="in" language="EN" revision="1" />
+  <preposition nennform="on" language="EN" revision="1" />
+  <pronoun nennform="he" language="EN" flavor="PERSONAL" revision="1" />
+  <pronoun nennform="her" language="EN" flavor="PERSONAL" revision="1" />
+  <pronoun nennform="him" language="EN" flavor="PERSONAL" revision="1" />
+  <pronoun nennform="i" language="EN" flavor="PERSONAL" revision="1" />
+  <pronoun nennform="it" language="EN" flavor="PERSONAL" revision="1" />
+  <pronoun nennform="me" language="EN" flavor="PERSONAL" revision="1" />
+  <pronoun nennform="she" language="EN" flavor="PERSONAL" revision="1" />
+  <pronoun nennform="you" language="EN" flavor="PERSONAL" revision="1" />
+  <verb language="EN" nennform="do" radical="do" partizip1="doing" partizip2="done" revision="1">
+    <indicative>
+      <praesens>
+        <sg3 form="does" />
+      </praesens>
+    </indicative>
+  </verb>
+  <verb language="EN" nennform="drive" radical="drive" revision="1" />
+  <verb language="EN" nennform="go" radical="go" partizip1="going" partizip2="gone" revision="1">
+    <indicative>
+      <praesens>
+        <sg3 form="goes" />
+      </praesens>
+    </indicative>
+  </verb>
+  <verb language="EN" nennform="work" radical="work" revision="1" />
+</terminology>
+
